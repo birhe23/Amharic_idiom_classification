@@ -1,0 +1,1 @@
+# Amharic_idiom_classification
